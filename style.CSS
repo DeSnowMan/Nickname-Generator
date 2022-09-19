@@ -1,0 +1,13 @@
+html {
+    text-align: center;
+    background-image: url("imG/872033200amazing-ocean-carribean-water-gif.gif");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: rgba(34, 255, 181, 0.459);
+
+}
